@@ -1,0 +1,9 @@
+[
+    {
+        "timestamp": "2026-05-14_14-53-01",
+        "session_id": "maq2_dev",
+        "model": "llama3.2",
+        "prompt": "hola",
+        "response": "Hola Gerardo"
+    }
+]

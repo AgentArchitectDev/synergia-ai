@@ -1,0 +1,11 @@
+{
+  "session_id": "20260514_182940",
+  "created_at": "2026-05-14T18:29:40.111411",
+  "history": [
+    {
+      "timestamp": "2026-05-14T18:29:45.606468",
+      "prompt": "Actu\u00e1 como SYNERGIA CORE NEXT PRO, un sistema operativo de inteligencia artificial local orientado a desarrollo de software, automatizaci\u00f3n y arquitectura de sistemas.\n\nNecesito que resuelvas el siguiente caso como si fueras un arquitecto senior de software y estratega digital.\n\nCONTEXTO:\nEstoy construyendo una plataforma llamada SYNERGIA CORE NEXT PRO que integra:\n- UI en PyQt6\n- modelos locales con Ollama\n- sistema de memoria persistente\n- providers de IA\n- generaci\u00f3n de sistemas autom\u00e1ticos tipo SaaS\n\nOBJETIVO:\nQuiero dise\u00f1ar una estrategia de contenido para Instagram enfocada en crecimiento org\u00e1nico y conversi\u00f3n para un sistema de software.\n\nREQUISITOS DE RESPUESTA:\n- No des respuestas gen\u00e9ricas\n- Pens\u00e1 como arquitecto + growth hacker + system designer\n- Separ\u00e1 en arquitectura t\u00e9cnica + estrategia de contenido + automatizaci\u00f3n posible\n- Inclu\u00ed ejemplos concretos\n- Inclu\u00ed flujo de automatizaci\u00f3n posible con IA\n- Pens\u00e1 escalabilidad (100 cuentas o m\u00e1s)\n- Inclu\u00ed riesgos y mejoras\n\nCASO:\nDise\u00f1\u00e1 una estrategia completa para Instagram enfocada en promocionar un sistema de software tipo SYNERGIA (IA + automatizaci\u00f3n + SaaS).\n\nQuiero que el resultado parezca un blueprint profesional listo para implementaci\u00f3n real.",
+      "response": null
+    }
+  ]
+}

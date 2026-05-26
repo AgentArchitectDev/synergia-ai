@@ -1,0 +1,110 @@
+.
+├── AI_TREE.txt
+├── brain
+│   ├── memory_global.json
+│   ├── memory_global.py
+│   ├── model_ranker.py
+│   ├── model_ranking.json
+│   ├── prompt_optimizer.py
+│   └── __pycache__
+│       ├── memory_global.cpython-312.pyc
+│       ├── model_ranker.cpython-312.pyc
+│       └── prompt_optimizer.cpython-312.pyc
+├── business
+│   ├── branding_generator.py
+│   ├── business_generator.py
+│   ├── docs_generator.py
+│   ├── Documento sin título
+│   ├── export_engine.py
+│   ├── master_business.txt
+│   ├── project_builder.py
+│   ├── __pycache__
+│   │   ├── branding_generator.cpython-312.pyc
+│   │   ├── business_generator.cpython-312.pyc
+│   │   ├── docs_generator.cpython-312.pyc
+│   │   ├── project_builder.cpython-312.pyc
+│   │   ├── social_generator.cpython-312.pyc
+│   │   └── website_generator.cpython-312.pyc
+│   ├── social_generator.py
+│   └── website_generator.py
+├── core
+│   ├── ai_orchestrator.py
+│   ├── cms_bridge.py
+│   ├── export_manager.py
+│   ├── memory_context_builder.py
+│   ├── progress_manager.py
+│   ├── prompt_optimizer.py
+│   ├── __pycache__
+│   │   ├── ai_orchestrator.cpython-312.pyc
+│   │   ├── progress_manager.cpython-312.pyc
+│   │   └── task_engine.cpython-312.pyc
+│   └── task_engine.py
+├── core_ai
+│   └── core_ai.py
+├── image
+│   ├── image_generator.py
+│   └── image_search.py
+├── __init__.py
+├── memory
+│   ├── conversations
+│   │   ├── global.json
+│   │   ├── maq2_dev.json
+│   │   └── maq2_real.json
+│   ├── memory_manager.py
+│   ├── prompts
+│   ├── __pycache__
+│   │   └── memory_manager.cpython-312.pyc
+│   └── sessions
+│       ├── 20260514_181344.json
+│       ├── 20260514_182347.json
+│       ├── 20260514_182940.json
+│       ├── 20260514_184151.json
+│       ├── 20260514_190209.json
+│       ├── 20260514_193307.json
+│       ├── 20260515_152021.json
+│       ├── 20260515_161814.json
+│       ├── 20260515_162837.json
+│       ├── 20260515_163533.json
+│       └── 20260515_164413.json
+├── models
+│   ├── __init__.py
+│   ├── models_manager.py
+│   └── __pycache__
+│       ├── __init__.cpython-312.pyc
+│       └── models_manager.cpython-312.pyc
+├── orchestrator.py
+├── prompts
+│   ├── hero_prompt.txt
+│   ├── seo_prompt.txt
+│   └── website_prompt.txt
+├── providers
+│   ├── gemini_provider.py
+│   ├── groq_provider.py
+│   ├── __init__.py
+│   ├── ollama_connector.py
+│   ├── ollama_provider.py
+│   ├── openai_provider.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-312.pyc
+│   │   ├── ollama_connector.cpython-312.pyc
+│   │   ├── ollama_provider.cpython-312.pyc
+│   │   └── registry.cpython-312.pyc
+│   └── registry.py
+├── __pycache__
+│   └── __init__.cpython-312.pyc
+├── router
+│   ├── agent_router.py
+│   ├── model_router.py
+│   ├── multi_model_engine.py
+│   ├── __pycache__
+│   │   └── multi_model_engine.cpython-312.pyc
+│   └── test_multi_model.py
+└── ui
+    ├── ai_lab_panel (copia).py
+    ├── ai_lab_panel.py
+    ├── __init__.py
+    └── __pycache__
+        ├── ai_lab_panel.cpython-312.pyc
+        └── __init__.cpython-312.pyc
+
+24 directories, 84 files
